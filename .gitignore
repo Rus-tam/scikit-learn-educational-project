@@ -1,2 +1,3 @@
 .idea
 models/random_forest_classifier.pkl
+notebooks/.ipynb_checkpoints/scikit-learn-checkpoint.ipynb
